@@ -1,6 +1,6 @@
 <center>Welcome to</center><br>
 <center><b>Pixel Scripts GitHub</b></center>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="fx-development" /></p>
+<p><img align="right" src="https://github.com/Pixel-Scripts/Pixel-Scripts/blob/main/animation_500_kxa883sd.gif" alt="fx-development" /></p>
 
 # Community
   <p><a href="https://discord.gg/HFQFE9QqVu">
